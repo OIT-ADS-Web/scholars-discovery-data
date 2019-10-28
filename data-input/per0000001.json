@@ -1,0 +1,58 @@
+{
+  "id": "per0000001",
+  "type": ["FacultyMember"],
+  "name": "Nelson, Rob",
+  "primaryEmail": "robert.nelson@duke.edu",
+  "preferredTitle": "Developer",
+  "overview": "Just an overview",
+  "lastName": "Nelson",
+  "firstName": "Rob",
+  "netid": "rn47",
+  "positions": [
+    {
+      "id": "pos0000001",
+      "label": "Associate Professor",
+      "type": "FacultyPosition",
+      "organization": {
+        "id": "org0000001",
+        "label": "Veterinary Pathobiology",
+        "parent": {
+          "id": "org0000002",
+          "label": "College of Veterinary Medicine and Biomedical Sciences"
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "id": "edu000001",
+      "label": "Ph.D. Doctor of Philosophy",
+      "organization": {
+        "id": "org0000003",
+        "label": "University of Maryland, College Park"
+      },
+      "majorField": "Microbiology and Immunology",
+      "degreeAbbreviation": "Ph.D.",
+      "endDate": "1989-01-01T00:00:00"
+    }
+  ],
+  "publications": [
+    {
+      "id": "pub0000001",
+      "title": "A great publication",
+      "type": "Article",
+      "venue": {
+        "id": "ven0000001",
+        "name": "Scientific American",
+        "type": "Journal"
+      },
+      "date": "2019-01-01T00:00:00"
+    }
+  ],
+  "researchAreas": [
+    {
+      "id": "concept0000001",
+      "value": "Computer Science"
+    }
+  ]
+}
