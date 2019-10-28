@@ -33,7 +33,7 @@ configure<JavaPluginConvention> {
 }
 
 application {
-    mainClassName = "edu.duke.MainKt"
+    mainClassName = "duke.MainKt"
 }
 
 tasks.withType<KotlinCompile> {
